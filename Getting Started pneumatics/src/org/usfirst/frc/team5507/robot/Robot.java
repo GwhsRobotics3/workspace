@@ -87,7 +87,7 @@ public class Robot extends IterativeRobot {
 		 System.out.println(c.getPressureSwitchValue());
 		 
 		 System.out.println("Compressor Current");
-		 System.out.println(c.getCompressorCurrent());
+		 System.out.println(c.getCompressorCurrent()); //version control works?
 	}
 
 	/**
